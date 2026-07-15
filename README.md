@@ -11,11 +11,12 @@ This project simulate vehicle density in 4 different streets. The system analyze
 * Uses color-coded alert for better readability.
 
 ## How to Run
-1. Install NumPy:
+1. Install Python from python.org 
+2. Install NumPy:
    ```bash
    pip install numpy
    ```
-2. Run the script:
+3. Run the script:
    ```bash
    python SmartTraffic.py
    ```
